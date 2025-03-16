@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @meth00
-- 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning python programming
+- 👋 Hi, I’m Anthelme AHOLOU
+- 👀 I’m student in statistics and datascience
+- 🌱 I’m interested in machine learning and AI research
 - 📫 you can reach me at anthelmetowanou@gmail.com
 
 <!---
