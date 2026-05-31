@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anthelme AHOLOU
-- 👀 I’m student in statistics and datascience
-- 🌱 I’m interested in machine learning and AI research
-- 📫 you can reach me at anthelmetowanou@gmail.com
+- 👨‍💻 Data enthusiast working with R and Python
+- 🔬 I’m interested in statistical modeling, machine learning, and applied AI research, with a focus on healthcare and climate-related problems
+- 📫 you can reach me at anthelme.aholou@gmail.com
 
 <!---
 meth00/meth00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
